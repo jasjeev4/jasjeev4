@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I&#39;m this is Jasjeev Anand.
 
-<!--
-**jasjeev4/jasjeev4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I&#39;m a senior studying Computer Science. More about that on my [website][website].\\
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a live conferencing solution powered by Zoom.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+
+- Operating Systems
+  
+- Distributed Systems
+  
+
+📫 How to reach me:
+
+&lt;details&gt; &lt;summary&gt;:zap: GitHub Stats&lt;/summary&gt; &lt;img align=&quot;left&quot; alt=&quot;jasjeev4&#39;s GitHub Stats&quot; src=&quot;https://github-readme-stats.codestackr.vercel.app/api?username=jasjeev4&show_icons=true&hide_border=true&quot; /&gt; &lt;/details&gt;
+
+### Spotify Playing 🎧 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12128868095)
+
+[website]: https://jsanand.com
