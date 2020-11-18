@@ -13,7 +13,7 @@
 
 📫 How to reach me:
 
-[LinkedIn][https://www.linkedin.com/in/jasjeev/] should work well!
+[LinkedIn][LinkedIn] should work well!
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -24,3 +24,4 @@
 
 
 [website]: https://jsanand.com
+[LinkedIn]: https://www.linkedin.com/in/jasjeev/
