@@ -1,6 +1,6 @@
 ### Hi there 👋 I&#39;m this is Jasjeev Anand.
 
-#### I&#39;m a senior studying Computer Science. More about that on my [website][website].\\
+#### I&#39;m a senior studying Computer Science. More about that on my [website][website].
 
 🔭 I’m currently working on a live conferencing solution powered by Zoom.
 
@@ -13,8 +13,14 @@
 
 📫 How to reach me:
 
-&lt;details&gt; &lt;summary&gt;:zap: GitHub Stats&lt;/summary&gt; &lt;img align=&quot;left&quot; alt=&quot;jasjeev4&#39;s GitHub Stats&quot; src=&quot;https://github-readme-stats.codestackr.vercel.app/api?username=jasjeev4&show_icons=true&hide_border=true&quot; /&gt; &lt;/details&gt;
+[LinkedIn][https://www.linkedin.com/in/jasjeev/] should work well!
 
-### Spotify Playing 🎧 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12128868095)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="jasjeev4's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasjeev4&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [website]: https://jsanand.com
