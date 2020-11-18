@@ -17,7 +17,6 @@ The following are repositories I've contributed to:
 
 
 
-
 🔭 I’m currently working on a live conferencing solution powered by Zoom.
 
 🌱 I’m currently learning:
@@ -28,6 +27,8 @@ The following are repositories I've contributed to:
   
 
 📫 How to reach me:
+[LinkedIn][LinkedIn] should work well!
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -38,5 +39,5 @@ The following are repositories I've contributed to:
 
 
 [website]: https://jsanand.com
-
+[LinkedIn]:https://www.linkedin.com/in/jasjeev/
 [rpi-docker-dnsmasq]:https://github.com/jasjeev4/rpi-docker-dnsmasq
