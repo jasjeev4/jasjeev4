@@ -1,4 +1,4 @@
-### Hi there 👋 I&#39;m this is Jasjeev Anand.
+### Hi there 👋, this is Jasjeev Anand.
 
 #### I&#39;m a senior studying Computer Science. More about that on my [website][website].
 
