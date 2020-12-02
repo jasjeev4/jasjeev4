@@ -8,7 +8,7 @@
   
   - [Django-Chime][Django-Chime] - A project that demonstrates a deployment of Amazon Chime on a Django server with user authentication implemented.
     
-  - \[slate-images][slate-images-django] - version of the slate rich text editor with the ability to add images added in hosted on a Django server.
+  - [slate-images][slate-images-django] - version of the slate rich text editor with the ability to add images added in hosted on a Django server.
     
 - Others:
   
