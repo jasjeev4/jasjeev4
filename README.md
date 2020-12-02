@@ -9,6 +9,10 @@
   - [Django-Chime][Django-Chime] - A project that demonstrates a deployment of Amazon Chime on a Django server with user authentication implemented.
     
   - [slate-images][slate-images-django] - version of the slate rich text editor with the ability to add images added in hosted on a Django server.
+  
+- Node.js:
+  
+  - [recents-builder-node][recents-builder-node] - A simple web app to create a new playlist of the most recently added songs created by a Spotify user. You need Node.js to run this.
     
 - Others:
   
@@ -16,6 +20,7 @@
 
 The following are repositories I've contributed to:
 
+  - [https://github.com/walley892/museum-app][https://github.com/walley892/museum-app]: I worked on the implementing server to upload musuem artifacts and generate a unique qr code so they may be scanned into the phone apps. 
 
 
 🔭 I’m currently working on a live conferencing solution powered by Zoom.
@@ -44,3 +49,5 @@ The following are repositories I've contributed to:
 [rpi-docker-dnsmasq]:https://github.com/jasjeev4/rpi-docker-dnsmasq
 [slate-images-django]:https://github.com/jasjeev4/slate-images
 [Django-Chime]:https://github.com/jasjeev4/Django-Chime
+[recents-builder-node]:https://github.com/jasjeev4/Recents-Builder-Spotify
+[https://github.com/walley892/museum-app]:https://github.com/walley892/museum-app
