@@ -4,14 +4,15 @@
 
 #### Here are my Github projects categorized:
 
-- iOS:
+- Django:
   
-- Django: 
-
+  - [Django-Chime][Django-Chime] - A project that demonstrates a deployment of Amazon Chime on a Django server with user authentication implemented.
+    
+  - \[slate-images][slate-images-django] - version of the slate rich text editor with the ability to add images added in hosted on a Django server.
+    
 - Others:
   
-  - [dnsmasq on the Raspberry Pi][rpi-docker-dnsmasq] -  my first repository to get 2 forks. The app provides a fully functioning image of dnsmasq on the resin/rpi-raspbian base image on docker.  
-    
+  - [dnsmasq on the Raspberry Pi][rpi-docker-dnsmasq] - my first repository to get 2 forks. The app provides a fully functioning image of dnsmasq on the resin/rpi-raspbian base image on docker.
 
 The following are repositories I've contributed to:
 
@@ -41,3 +42,5 @@ The following are repositories I've contributed to:
 [website]: https://jsanand.com
 [LinkedIn]:https://www.linkedin.com/in/jasjeev/
 [rpi-docker-dnsmasq]:https://github.com/jasjeev4/rpi-docker-dnsmasq
+[slate-images-django]:https://github.com/jasjeev4/slate-images
+[Django-Chime]:https://github.com/jasjeev4/Django-Chime
