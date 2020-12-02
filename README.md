@@ -13,7 +13,10 @@
 - Node.js:
   
   - [Recents-Builder-Spotify][recents-builder-node] - A simple web app to create a new playlist of the most recently added songs created by a Spotify user. You need Node.js to run this.
-    
+
+-Java:
+  -[CSE-410-CommandLine][https://github.com/jasjeev4/CSE-410-CommandLine.git] - A command line app written entirely in Java which handles flags and program arguments. 
+
 - Others:
   
   - [dnsmasq on the Raspberry Pi][rpi-docker-dnsmasq] - my first repository to get 2 forks. The app provides a fully functioning image of dnsmasq on the resin/rpi-raspbian base image on docker.
@@ -51,3 +54,4 @@ The following are repositories I've contributed to:
 [Django-Chime]:https://github.com/jasjeev4/Django-Chime
 [recents-builder-node]:https://github.com/jasjeev4/Recents-Builder-Spotify
 [https://github.com/walley892/museum-app]:https://github.com/walley892/museum-app
+[CSE-410-CommandLine]:https://github.com/jasjeev4/CSE-410-CommandLine.git
