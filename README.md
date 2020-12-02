@@ -8,7 +8,7 @@
   
   - [Django-Chime][Django-Chime] - A project that demonstrates a deployment of Amazon Chime on a Django server with user authentication implemented.
     
-  - [slate-images][slate-images-django] - version of the slate rich text editor with the ability to add images added in hosted on a Django server.
+  - [slate-images][slate-images-django] - Version of the slate rich text editor with the ability to add images added in hosted on a Django server.
   
 - Node.js:
   
@@ -19,7 +19,7 @@
 
 - Others:
   
-  - [dnsmasq on the Raspberry Pi][rpi-docker-dnsmasq] - my first repository to get 2 forks. The app provides a fully functioning image of dnsmasq on the resin/rpi-raspbian base image on docker.
+  - [dnsmasq on the Raspberry Pi][rpi-docker-dnsmasq] - My first repository to get 2 forks. The app provides a fully functioning image of dnsmasq on the resin/rpi-raspbian base image on docker.
 
 The following are repositories I've contributed to:
 
