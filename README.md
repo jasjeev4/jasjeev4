@@ -12,7 +12,7 @@
   
 - Node.js:
   
-  - [recents-builder-node][recents-builder-node] - A simple web app to create a new playlist of the most recently added songs created by a Spotify user. You need Node.js to run this.
+  - [Recents-Builder-Spotify][recents-builder-node] - A simple web app to create a new playlist of the most recently added songs created by a Spotify user. You need Node.js to run this.
     
 - Others:
   
