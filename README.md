@@ -15,7 +15,7 @@
   - [Recents-Builder-Spotify][recents-builder-node] - A simple web app to create a new playlist of the most recently added songs created by a Spotify user. You need Node.js to run this.
 
 - Java:
-  - [CSE-410-CommandLine][https://github.com/jasjeev4/CSE-410-CommandLine.git] - A command line app written entirely in Java which handles flags and program arguments. 
+  - [CSE-410-CommandLine][CSE-410-CommandLine] - A command line app written entirely in Java which handles flags and program arguments. 
 
 - Others:
   
