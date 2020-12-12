@@ -8,9 +8,7 @@
    
 [![jasjeev4/OnTheMap - GitHub](https://gh-card.dev/repos/jasjeev4/OnTheMap.svg)](https://github.com/jasjeev4/OnTheMap)       |  [![jasjeev4/MemeMe2 - GitHub](https://gh-card.dev/repos/jasjeev4/MemeMe2.svg)](https://github.com/jasjeev4/MemeMe2)
 :-------------------------:|:-------------------------:
-[![jasjeev4/VirutalTourist - GitHub](https://gh-card.dev/repos/jasjeev4/VirutalTourist.svg)](https://github.com/jasjeev4/VirutalTourist)  |  [![jasjeev4/ImagePicker-iOS - GitHub](https://gh-card.dev/repos/jasjeev4/ImagePicker-iOS.svg)](https://github.com/jasjeev4/ImagePicker-iOS)
- 
-  
+[![jasjeev4/VirutalTourist - GitHub](https://gh-card.dev/repos/jasjeev4/VirutalTourist.svg)](https://github.com/jasjeev4/VirutalTourist)  |  [![jasjeev4/Job-Search - GitHub](https://gh-card.dev/repos/jasjeev4/Job-Search.svg)](https://github.com/jasjeev4/Job-Search)
 
 - Django:
   
