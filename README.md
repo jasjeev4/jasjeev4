@@ -12,24 +12,30 @@
 [![jasjeev4/Job-Search - GitHub](https://gh-card.dev/repos/jasjeev4/Job-Search.svg)](https://github.com/jasjeev4/Job-Search) | 
 
 
-Android:
-  
+- Android:
+
+[![jasjeev4/StayFit - GitHub](https://gh-card.dev/repos/jasjeev4/StayFit.svg)](https://github.com/jasjeev4/StayFit)
+
 
 - Django:
   
 [![jasjeev4/Django-Chime - GitHub](https://gh-card.dev/repos/jasjeev4/Django-Chime.svg)](https://github.com/jasjeev4/Django-Chime) [![jasjeev4/slate-images - GitHub](https://gh-card.dev/repos/jasjeev4/slate-images.svg)](https://github.com/jasjeev4/slate-images)
 
+
 - Node.js:
 
-  [![jasjeev4/Recents-Builder-Spotify - GitHub](https://gh-card.dev/repos/jasjeev4/Recents-Builder-Spotify.svg)](https://github.com/jasjeev4/Recents-Builder-Spotify)
+ [![jasjeev4/Recents-Builder-Spotify - GitHub](https://gh-card.dev/repos/jasjeev4/Recents-Builder-Spotify.svg)](https://github.com/jasjeev4/Recents-Builder-Spotify)
+
 
 - Java:
 
 [![jasjeev4/CSE-410-CommandLine - GitHub](https://gh-card.dev/repos/jasjeev4/CSE-410-CommandLine.svg)](https://github.com/jasjeev4/CSE-410-CommandLine)
 
+
 - Others:
   
 [![jasjeev4/rpi-docker-dnsmasq - GitHub](https://gh-card.dev/repos/jasjeev4/rpi-docker-dnsmasq.svg)](https://github.com/jasjeev4/rpi-docker-dnsmasq)
+
 
 The following are repositories I've contributed to:
 
