@@ -6,26 +6,30 @@
 
 - iOS:
    
-[![jasjeev4/OnTheMap - GitHub](https://gh-card.dev/repos/jasjeev4/OnTheMap.svg)](https://github.com/jasjeev4/OnTheMap)       |  [![jasjeev4/MemeMe2 - GitHub](https://gh-card.dev/repos/jasjeev4/MemeMe2.svg)](https://github.com/jasjeev4/MemeMe2)
+[![jasjeev4/OnTheMap - GitHub](https://gh-card.dev/repos/jasjeev4/OnTheMap.svg)](https://github.com/jasjeev4/OnTheMap) | [![jasjeev4/MemeMe2 - GitHub](https://gh-card.dev/repos/jasjeev4/MemeMe2.svg)](https://github.com/jasjeev4/MemeMe2) 
 :-------------------------:|:-------------------------:
-[![jasjeev4/VirutalTourist - GitHub](https://gh-card.dev/repos/jasjeev4/VirutalTourist.svg)](https://github.com/jasjeev4/VirutalTourist)  |  [![jasjeev4/Job-Search - GitHub](https://gh-card.dev/repos/jasjeev4/Job-Search.svg)](https://github.com/jasjeev4/Job-Search)
+[![jasjeev4/VirutalTourist - GitHub](https://gh-card.dev/repos/jasjeev4/VirutalTourist.svg)](https://github.com/jasjeev4/VirutalTourist)  |  [![jasjeev4/PitchPerfect - GitHub](https://gh-card.dev/repos/jasjeev4/PitchPerfect.svg)](https://github.com/jasjeev4/PitchPerfect)
+:-------------------------:|:-------------------------:
+[![jasjeev4/Job-Search - GitHub](https://gh-card.dev/repos/jasjeev4/Job-Search.svg)](https://github.com/jasjeev4/Job-Search)
+
+Android:
+  
 
 - Django:
   
-  - [Django-Chime][Django-Chime] - A project that demonstrates a deployment of Amazon Chime on a Django server with user authentication implemented.
-    
-  - [slate-images][slate-images-django] - Version of the slate rich text editor with the ability to add images added in hosted on a Django server.
-  
+[![jasjeev4/Django-Chime - GitHub](https://gh-card.dev/repos/jasjeev4/Django-Chime.svg)](https://github.com/jasjeev4/Django-Chime) [![jasjeev4/slate-images - GitHub](https://gh-card.dev/repos/jasjeev4/slate-images.svg)](https://github.com/jasjeev4/slate-images)
+
 - Node.js:
-  
-  - [Recents-Builder-Spotify][recents-builder-node] - A simple web app to create a new playlist of the most recently added songs created by a Spotify user. You need Node.js to run this.
+
+  [![jasjeev4/Recents-Builder-Spotify - GitHub](https://gh-card.dev/repos/jasjeev4/Recents-Builder-Spotify.svg)](https://github.com/jasjeev4/Recents-Builder-Spotify)
 
 - Java:
-  - [CSE-410-CommandLine][CSE-410-CommandLine] - A command line app written entirely in Java which handles flags and program arguments. 
+
+[![jasjeev4/CSE-410-CommandLine - GitHub](https://gh-card.dev/repos/jasjeev4/CSE-410-CommandLine.svg)](https://github.com/jasjeev4/CSE-410-CommandLine)
 
 - Others:
   
-  - [dnsmasq on the Raspberry Pi][rpi-docker-dnsmasq] - My first repository to get 2 forks. The app provides a fully functioning image of dnsmasq on the resin/rpi-raspbian base image on docker.
+[![jasjeev4/rpi-docker-dnsmasq - GitHub](https://gh-card.dev/repos/jasjeev4/rpi-docker-dnsmasq.svg)](https://github.com/jasjeev4/rpi-docker-dnsmasq)
 
 The following are repositories I've contributed to:
 
