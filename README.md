@@ -14,7 +14,7 @@
 
 - Android:
 
-[![jasjeev4/StayFit - GitHub](https://gh-card.dev/repos/jasjeev4/StayFit.svg)](https://github.com/jasjeev4/StayFit)
+[![jasjeev4/RecentsPlaylist-Android - GitHub](https://gh-card.dev/repos/jasjeev4/RecentsPlaylist-Android.svg)](https://github.com/jasjeev4/RecentsPlaylist-Android)  [![jasjeev4/StayFit - GitHub](https://gh-card.dev/repos/jasjeev4/StayFit.svg)](https://github.com/jasjeev4/StayFit)
 
 
 - Django:
