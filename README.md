@@ -7,7 +7,7 @@
 - iOS:
    
 [![jasjeev4/OnTheMap - GitHub](https://gh-card.dev/repos/jasjeev4/OnTheMap.svg)](https://github.com/jasjeev4/OnTheMap) [![jasjeev4/MemeMe2 - GitHub](https://gh-card.dev/repos/jasjeev4/MemeMe2.svg)](https://github.com/jasjeev4/MemeMe2) 
-[![jasjeev4/VirutalTourist - GitHub](https://gh-card.dev/repos/jasjeev4/VirutalTourist.svg)](https://github.com/jasjeev4/VirutalTourist) [![jasjeev4/PitchPerfect - GitHub](https://gh-card.dev/repos/jasjeev4/PitchPerfect.svg)](https://github.com/jasjeev4/PitchPerfect) [![jasjeev4/Job-Search - GitHub](https://gh-card.dev/repos/jasjeev4/Job-Search.svg)](https://github.com/jasjeev4/Job-Search) | 
+[![jasjeev4/VirutalTourist - GitHub](https://gh-card.dev/repos/jasjeev4/VirutalTourist.svg)](https://github.com/jasjeev4/VirutalTourist) [![jasjeev4/PitchPerfect - GitHub](https://gh-card.dev/repos/jasjeev4/PitchPerfect.svg)](https://github.com/jasjeev4/PitchPerfect) [![jasjeev4/Job-Search - GitHub](https://gh-card.dev/repos/jasjeev4/Job-Search.svg)](https://github.com/jasjeev4/Job-Search) 
 
 
 - Android:
