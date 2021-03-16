@@ -44,9 +44,9 @@ The following are repositories I've contributed to:
 
 🌱 I’m currently learning:
 
-- Operating Systems
+- Computer Vision
   
-- Distributed Systems
+- Machine Learning
   
 
 📫 How to reach me:
