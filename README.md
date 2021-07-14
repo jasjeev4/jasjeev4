@@ -1,6 +1,4 @@
-### Hi there 👋, this is Jasjeev Anand.
-
-#### I&#39;m a senior studying Computer Science. More about that on my [website][website].
+### Hey there 👋 more about that on my [website][website].
 
 #### Here are my Github projects categorized:
 
