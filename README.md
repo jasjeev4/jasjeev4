@@ -1,4 +1,4 @@
-### Hey there 👋 more about that on my [website][website].
+### Hey there 👋 more on my [website][website].
 
 #### Here are my Github projects categorized:
 
