@@ -1,6 +1,12 @@
-### Hey there 👋 more on my [website][website].
+### Hello there! 👋
 
-#### Here are my Github projects categorized:
+I'm a software developer with 10+ years of experience, specializing in mobile development. My skill set includes refining and optimizing code across diverse applications.
+
+My GitHub profile exhibits various projects that highlight my capabilities. Open-source highlights can be found below, illustrating my commitment to efficient and maintainable code.
+
+Interested in a collaboration or curious about my work? Feel free to reach out!
+
+More on my [website][website].
 
 - iOS:
    
@@ -38,14 +44,11 @@ The following are repositories I've contributed to:
   - [https://github.com/walley892/museum-app][https://github.com/walley892/museum-app]: I worked on the implementing server to upload musuem artifacts and generate a unique qr code so they may be scanned into the phone apps. 
 
 
-🔭 I’m currently working on a live conferencing solution powered by Zoom.
+🔭 I’m currently working on a couple of iOS apps.
 
 🌱 I’m currently learning:
 
-- Computer Vision
-  
-- Machine Learning
-  
+- How to exploit large language models to do things
 
 📫 How to reach me:
 [LinkedIn][LinkedIn] should work well!
