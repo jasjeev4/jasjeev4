@@ -49,14 +49,6 @@ The following are repositories I've contributed to:
 [LinkedIn][LinkedIn] should work well!
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jasjeev4's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasjeev4&show_icons=true&hide_border=true" />
-
-</details>
-
-
 [website]: https://jsanand.com
 [LinkedIn]:https://www.linkedin.com/in/jasjeev/
 [rpi-docker-dnsmasq]:https://github.com/jasjeev4/rpi-docker-dnsmasq
