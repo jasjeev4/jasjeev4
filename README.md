@@ -39,7 +39,7 @@ The following are repositories I've contributed to:
   - [https://github.com/walley892/museum-app][https://github.com/walley892/museum-app]: I worked on the implementing server to upload musuem artifacts and generate a unique qr code so they may be scanned into the phone apps. 
 
 
-🔭 I’m currently working on a couple of iOS apps.
+🔭 I’m currently working as an iOS Engineer on the Lowes app. I previous worked as an iOS Engineer at ACV Auctions.
 
 🌱 I’m currently learning:
 
