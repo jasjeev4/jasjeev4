@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm a software developer with 10+ years of experience, specializing in mobile development. My skill set includes refining and optimizing code across diverse applications.
+I'm a software engineer with 10+ years of experience, specializing in mobile development. My skill set includes refining and optimizing code across diverse applications.
 
 My GitHub profile exhibits various projects that highlight my capabilities. Open-source highlights can be found below, illustrating my commitment to efficient and maintainable code.
 
